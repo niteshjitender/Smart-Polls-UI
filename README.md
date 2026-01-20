@@ -23,4 +23,6 @@ A lightweight poll platform UI:
 ```bash
 npm install
 npm run dev
+npm run lint
+npm run format
 ```
